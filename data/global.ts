@@ -75,14 +75,25 @@ export const footer: Footer = {
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
+      ],
+    },
+    {
+      title: "Contact",
+      links: [
         {
           name: "Email",
           link: "mailto:seniraliev94@gmail.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },
-      ],
-    },
+        {
+          name: "Phone",
+          link: "tel:2318215145",
+          icon: "/static/icons/phone-f.svg",
+          leavesWebsite: true,
+        },
+      ]
+    }
   ],
   support: {
     buymeacoffee: "braydenw",
