@@ -39,9 +39,9 @@ export default function MobileNavbar() {
         <li className="list-none font-bold text-lg">
           <Link href="/">
             <img
-              className="mr-3"
+              className="mr-3 rounded-full"
               src="/static/logos/sa_logo.png"
-              width="160"
+              width="60"
             />
           </Link>
         </li>
